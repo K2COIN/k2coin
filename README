@@ -1,2 +1,17 @@
 rpc port: 34938
 net port: 34937
+Coin Type: Pure PoW, 
+Hashing Algorithm: Scrypt, 
+Difficulty Retargetting Algorithm: Kimoto Gravity Well, 
+Time Between Blocks (in seconds): 90, 
+Block Reward Type: Simple (recommended), 
+Block Reward: 45, 
+Block Reward Halving Rate: 900,000, 
+Premine?: No, 
+Total Coins: 81,000,000, 
+Based on all your choices above, here are some key bits of information about your coin:: Show Additional Information, 
+Daily Block Count: 960, 
+Coins Generated Per Day: 43,200, 
+Time Between Halvings: 30.82, 
+Testnet: Disabled, 
+Maximum Block Size: 1 MB, 
